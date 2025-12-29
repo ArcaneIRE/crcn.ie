@@ -1,6 +1,6 @@
 {
     "$schema": "node_modules/wrangler/config-schema.json",
-    "name": "crcn",
+    "name": "crcrn",
     "compatibility_date": "2025-12-29",
     "assets": {
         "directory": "./public"
